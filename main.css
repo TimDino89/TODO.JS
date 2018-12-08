@@ -19,7 +19,7 @@ body {
   border: none;
   background: none;
   outline: none;
-  transition: all .3s;
+  transition: all .5s;
 }
 
 .btn__edit,
