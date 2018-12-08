@@ -20,6 +20,7 @@ body {
   background: none;
   outline: none;
   transition: all .5s;
+  cursor: pointer;
 }
 
 .btn__edit,
